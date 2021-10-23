@@ -1,0 +1,4 @@
+- https://openjscad.xyz/#
+- https://github.com/CadQuery/cadquery
+- https://github.com/mkeeter/antimony
+- https://github.com/kovacsv/VisualScriptCAD

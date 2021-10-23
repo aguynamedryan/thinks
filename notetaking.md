@@ -1,0 +1,2 @@
+- https://logseq.com/
+- obsidian
